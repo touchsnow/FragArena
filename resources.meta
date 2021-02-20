@@ -1,0 +1,21 @@
+{
+  "ver": "1.1.0",
+  "importer": "directory",
+  "imported": true,
+  "uuid": "f41548f2-b068-4439-ac75-93d917992053",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "isBundle": true,
+    "bundleName": "resources",
+    "priority": 8,
+    "compressionType": {},
+    "isRemoteBundle": {
+      "web-desktop": true,
+      "vivo-mini-game": true,
+      "xiaomi-quick-game": true,
+      "oppo-mini-game": true,
+      "huawei-quick-game": true
+    }
+  }
+}

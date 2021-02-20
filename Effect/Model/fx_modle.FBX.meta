@@ -1,0 +1,58 @@
+{
+  "ver": "2.0.2",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "cdf14089-2f60-4442-8384-d11a0418474b",
+  "files": [],
+  "subMetas": {
+    "c6160": {
+      "importer": "gltf-mesh",
+      "uuid": "cdf14089-2f60-4442-8384-d11a0418474b@c6160",
+      "displayName": "",
+      "id": "c6160",
+      "name": "Cylinder001.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4983f": {
+      "importer": "gltf-scene",
+      "uuid": "cdf14089-2f60-4442-8384-d11a0418474b@4983f",
+      "displayName": "",
+      "id": "4983f",
+      "name": "fx_modle.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "cdf14089-2f60-4442-8384-d11a0418474b@4983f",
+    "assetFinder": {
+      "meshes": [
+        "cdf14089-2f60-4442-8384-d11a0418474b@c6160"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "cdf14089-2f60-4442-8384-d11a0418474b@4983f"
+      ]
+    }
+  }
+}

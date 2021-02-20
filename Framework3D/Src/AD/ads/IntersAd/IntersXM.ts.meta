@@ -1,0 +1,17 @@
+{
+  "ver": "4.0.9",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "6c20ecbe-62d5-49a7-966a-08977b1e5167",
+  "files": [
+    ".js",
+    "editor.js",
+    ".trans"
+  ],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/Framework3D/Src/AD/ads/IntersAd/IntersXM.js",
+    "importerSettings": 7
+  }
+}

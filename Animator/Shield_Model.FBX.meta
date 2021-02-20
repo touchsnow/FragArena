@@ -1,0 +1,123 @@
+{
+  "ver": "2.0.2",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "dc5b491d-3de0-4916-890d-79e061f5c67f",
+  "files": [],
+  "subMetas": {
+    "54163": {
+      "importer": "texture",
+      "uuid": "dc5b491d-3de0-4916-890d-79e061f5c67f@54163",
+      "displayName": "",
+      "id": "54163",
+      "name": "NewWeaponColor.png10.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "dc5b491d-3de0-4916-890d-79e061f5c67f@c8f55"
+      },
+      "ver": "1.0.20",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ad6fa": {
+      "importer": "gltf-mesh",
+      "uuid": "dc5b491d-3de0-4916-890d-79e061f5c67f@ad6fa",
+      "displayName": "",
+      "id": "ad6fa",
+      "name": "PolygonPowerupShield.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c8f55": {
+      "importer": "gltf-embeded-image",
+      "uuid": "dc5b491d-3de0-4916-890d-79e061f5c67f@c8f55",
+      "displayName": "",
+      "id": "c8f55",
+      "name": "NewWeaponColor.png10.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6e449": {
+      "importer": "gltf-material",
+      "uuid": "dc5b491d-3de0-4916-890d-79e061f5c67f@6e449",
+      "displayName": "",
+      "id": "6e449",
+      "name": "NewWeaponTexture10.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b8d98": {
+      "importer": "gltf-scene",
+      "uuid": "dc5b491d-3de0-4916-890d-79e061f5c67f@b8d98",
+      "displayName": "",
+      "id": "b8d98",
+      "name": "Shield_Model.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "NewWeaponColor.png10",
+        "uri": "dc5b491d-3de0-4916-890d-79e061f5c67f@c8f55"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "dc5b491d-3de0-4916-890d-79e061f5c67f@b8d98",
+    "assetFinder": {
+      "meshes": [
+        "dc5b491d-3de0-4916-890d-79e061f5c67f@ad6fa"
+      ],
+      "skeletons": [],
+      "textures": [
+        "dc5b491d-3de0-4916-890d-79e061f5c67f@54163"
+      ],
+      "materials": [
+        "dc5b491d-3de0-4916-890d-79e061f5c67f@6e449"
+      ],
+      "scenes": [
+        "dc5b491d-3de0-4916-890d-79e061f5c67f@b8d98"
+      ]
+    }
+  }
+}

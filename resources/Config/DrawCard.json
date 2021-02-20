@@ -1,0 +1,343 @@
+{
+    "DynamiteGun": {
+        "label": "炸药",
+        "spritePath": "DrawCard/DynamiteGun/spriteFrame",
+        "caseValue": 0,
+        "engName": "DynamiteGun",
+        "addition":0
+    },
+    "RockGun": {
+        "label": "火箭筒",
+        "spritePath": "DrawCard/RockGun/spriteFrame",
+        "caseValue": 1,
+        "engName": "RockGun",
+        "addition":0
+    },
+    "MachineGun": {
+        "label": "加特林机关枪",
+        "spritePath": "DrawCard/MachineGun/spriteFrame",
+        "caseValue": 2,
+        "engName": "MachineGun",
+        "addition":0
+    },
+    "ShotGun": {
+        "label": "散弹枪",
+        "spritePath": "DrawCard/ShotGun/spriteFrame",
+        "caseValue": 3,
+        "engName": "ShotGun",
+        "addition":0
+    },
+    "LaserGun": {
+        "label": "激光枪",
+        "spritePath": "DrawCard/LaserGun/spriteFrame",
+        "caseValue": 4,
+        "engName": "LaserGun",
+        "addition":0
+    },
+    "TeslaGun": {
+        "label": "球状闪电",
+        "spritePath": "DrawCard/TeslaGun/spriteFrame",
+        "caseValue": 5,
+        "engName": "TeslaGun",
+        "addition":0
+    },
+    "FlameGun": {
+        "label": "火焰发射器",
+        "spritePath": "DrawCard/FlameGun/spriteFrame",
+        "caseValue": 6,
+        "engName": "FlameGun",
+        "addition":0
+    },
+    "FreezeGun": {
+        "label": "冰冻枪",
+        "spritePath": "DrawCard/FreezeGun/spriteFrame",
+        "caseValue": 7,
+        "engName": "FreezeGun",
+        "addition":0
+    },
+    "PoisonGun": {
+        "label": "毒枪",
+        "spritePath": "DrawCard/PoisonGun/spriteFrame",
+        "caseValue": 8,
+        "engName": "PoisonGun",
+        "addition":0
+    },
+
+    "Armor1": {
+        "label": "护甲提升15%",
+        "spritePath": "DrawCard/Armor1/spriteFrame",
+        "caseValue": 9,
+        "engName": "Armor1",
+        "addition":0.15,
+        "level":1,
+        "cnName":"护甲",
+        "describe":"在战场上，护甲的加成提高15%"
+    },
+    "Armor2": {
+        "label": "护甲提升25%",
+        "spritePath": "DrawCard/Armor2/spriteFrame",
+        "caseValue": 9,
+        "engName": "Armor2",
+        "addition":0.25,
+        "level":2,
+        "cnName":"护甲",
+        "describe":"在战场上，护甲的加成提高25%"
+    },
+    "Armor3": {
+        "label": "护甲提升35%",
+        "spritePath": "DrawCard/Armor3/spriteFrame",
+        "caseValue": 9,
+        "engName": "Armor3",
+        "addition":0.35,
+        "level":3,
+        "cnName":"护甲",
+        "describe":"在战场上，护甲的加成提高35%"
+    },
+
+    "Damage1": {
+        "label": "攻击提升30%",
+        "spritePath": "DrawCard/Damage1/spriteFrame",
+        "caseValue": 10,
+        "engName": "Damage1",
+        "addition":0.3,
+        "level":1,
+        "cnName":"攻击",
+        "describe":"在战场上，攻击力的提高30%"
+    },
+    "Damage2": {
+        "label": "攻击提升40%",
+        "spritePath": "DrawCard/Damage2/spriteFrame",
+        "caseValue": 10,
+        "engName": "Damage2",
+        "addition":0.4,
+        "level":2,
+        "cnName":"攻击",
+        "describe":"在战场上，攻击力的提高40%"
+    },
+    "Damage3": {
+        "label": "攻击提升50%",
+        "spritePath": "DrawCard/Damage3/spriteFrame",
+        "caseValue": 10,
+        "engName": "Damage3",
+        "addition":0.5,
+        "level":3,
+        "cnName":"攻击",
+        "describe":"在战场上，攻击力的提高50%"
+    },
+
+    "AttackBloodReturn1": {
+        "label": "吸血提升20%",
+        "spritePath": "DrawCard/AttackBloodReturn1/spriteFrame",
+        "caseValue": 11,
+        "engName": "AttackBloodReturn1",
+        "addition":0.2,
+        "level":1,
+        "cnName":"吸血",
+        "describe":"在战场上，攻击能够回血，回血为攻击伤害的20%"
+    },
+    "AttackBloodReturn2": {
+        "label": "吸血提升30%",
+        "spritePath": "DrawCard/AttackBloodReturn2/spriteFrame",
+        "caseValue": 11,
+        "engName": "AttackBloodReturn2",
+        "addition":0.3,
+        "level":2,
+        "cnName":"吸血",
+        "describe":"在战场上，攻击能够回血，回血为攻击伤害的30%"
+    },
+    "AttackBloodReturn3": {
+        "label": "吸血提升40%",
+        "spritePath": "DrawCard/AttackBloodReturn3/spriteFrame",
+        "caseValue": 11,
+        "engName": "AttackBloodReturn3",
+        "addition":0.4,
+        "level":3,
+        "cnName":"吸血",
+        "describe":"在战场上，攻击能够回血，回血为攻击伤害的40%"
+    },
+
+    "Speed1": {
+        "label": "速度提升5%",
+        "spritePath": "DrawCard/Speed1/spriteFrame",
+        "caseValue": 12,
+        "engName": "Speed1",
+        "addition":0.05,
+        "level":1,
+        "cnName":"移速",
+        "describe":"在战场上，移动的速度提升5%"
+    },
+    "Speed2": {
+        "label": "速度提升15%",
+        "spritePath": "DrawCard/Speed2/spriteFrame",
+        "caseValue": 12,
+        "engName": "Speed2",
+        "addition":0.15,
+        "level":2,
+        "cnName":"移速",
+        "describe":"在战场上，移动的速度提升15%"
+    },
+    "Speed3": {
+        "label": "速度提升25%",
+        "spritePath": "DrawCard/Speed3/spriteFrame",
+        "caseValue": 12,
+        "engName": "Speed3",
+        "addition":0.25,
+        "level":3,
+        "cnName":"移速",
+        "describe":"在战场上，移动的速度提升25%"
+    },
+
+    "AttackSpeed1": {
+        "label": "攻速提升5%",
+        "spritePath": "DrawCard/AttackSpeed1/spriteFrame",
+        "caseValue": 13,
+        "engName": "AttackSpeed1",
+        "addition":0.05,
+        "level":1,
+        "cnName":"攻速",
+        "describe":"在战场上，攻击的速度提升5%"
+    },
+    "AttackSpeed2": {
+        "label": "攻速提升15%",
+        "spritePath": "DrawCard/AttackSpeed2/spriteFrame",
+        "caseValue": 13,
+        "engName": "AttackSpeed2",
+        "addition":0.15,
+        "level":2,
+        "cnName":"攻速",
+        "describe":"在战场上，攻击的速度提升15%"
+    },
+    "AttackSpeed3": {
+        "label": "攻速提升25%",
+        "spritePath": "DrawCard/AttackSpeed3/spriteFrame",
+        "caseValue": 13,
+        "engName": "AttackSpeed3",
+        "addition":0.25,
+        "level":3,
+        "cnName":"攻速",
+        "describe":"在战场上，攻击的速度提升25%"
+    },
+
+    "HpRecover1": {
+        "label": "恢复血量10%",
+        "spritePath": "DrawCard/HpRecover1/spriteFrame",
+        "caseValue": 14,
+        "engName": "HpRecover1",
+        "addition":0.1,
+        "level":1,
+        "cnName":"加血",
+        "describe":"在战场上，角色血量恢复10%"
+    },
+    "HpRecover2": {
+        "label": "恢复血量20%",
+        "spritePath": "DrawCard/HpRecover2/spriteFrame",
+        "caseValue": 14,
+        "engName": "HpRecover2",
+        "addition":0.2,
+        "level":2,
+        "cnName":"加血",
+        "describe":"在战场上，角色血量恢复20%"
+    },
+    "HpRecover3": {
+        "label": "恢复血量30%",
+        "spritePath": "DrawCard/HpRecover3/spriteFrame",
+        "caseValue": 14,
+        "engName": "HpRecover3",
+        "addition":0.3,
+        "level":3,
+        "cnName":"加血",
+        "describe":"在战场上，角色血量恢复30%"
+    },
+
+    "BloodReturn1": {
+        "label": "回血提升5%",
+        "spritePath": "DrawCard/BloodReturn1/spriteFrame",
+        "caseValue": 15,
+        "engName": "BloodReturn1",
+        "addition":0.05,
+        "level":1,
+        "cnName":"回血",
+        "describe":"在战场上，角色会持续回血，每秒回血量增加5%"
+    },
+    "BloodReturn2": {
+        "label": "回血提升15%",
+        "spritePath": "DrawCard/BloodReturn2/spriteFrame",
+        "caseValue": 15,
+        "engName": "BloodReturn2",
+        "addition":0.15,
+        "level":2,
+        "cnName":"回血",
+        "describe":"在战场上，角色会持续回血，每秒回血量增加15%"
+    },
+    "BloodReturn3": {
+        "label": "回血提升25%",
+        "spritePath": "DrawCard/BloodReturn3/spriteFrame",
+        "caseValue": 15,
+        "engName": "BloodReturn3",
+        "addition":0.25,
+        "level":3,
+        "cnName":"回血",
+        "describe":"在战场上，角色会持续回血，每秒回血量增加25%"
+    },
+
+    "MoreExp1":{
+        "label": "经验加成5%",
+        "spritePath": "DrawCard/MoreExp1/spriteFrame",
+        "caseValue": 16,
+        "engName": "MoreExp1",
+        "addition":0.05,
+        "level":1,
+        "cnName":"经验",
+        "describe":"在战场上，角色获得的经验增加5%"
+    },
+    "MoreExp2":{
+        "label": "经验加成15%",
+        "spritePath": "DrawCard/MoreExp2/spriteFrame",
+        "caseValue": 16,
+        "engName": "MoreExp2",
+        "addition":0.15,
+        "level":2,
+        "cnName":"经验",
+        "describe":"在战场上，角色获得的经验增加15%"
+    },
+    "MoreExp3":{
+        "label": "经验加成25%",
+        "spritePath": "DrawCard/MoreExp3/spriteFrame",
+        "caseValue": 16,
+        "engName": "MoreExp3",
+        "addition":0.25,
+        "level":3,
+        "cnName":"经验",
+        "describe":"在战场上，角色获得的经验增加25%"
+    },
+
+    "Shield":{
+        "label": "盾牌",
+        "spritePath": "DrawCard/Shield/spriteFrame",
+        "caseValue": 17,
+        "engName": "Shield",
+        "addition":0
+    },
+    "BackFire":{
+        "label": "背后开火",
+        "spritePath": "DrawCard/BackFire/spriteFrame",
+        "caseValue": 18,
+        "engName": "Shield",
+        "addition":0
+    },
+    "SplitFire":{
+        "label": "子弹分裂",
+        "spritePath": "DrawCard/SplitFire/spriteFrame",
+        "caseValue": 19,
+        "engName": "SplitFire",
+        "addition":0
+    },
+    "MultipleShot":{
+        "label": "多发子弹",
+        "spritePath": "DrawCard/MultipleShot/spriteFrame",
+        "caseValue": 20,
+        "engName": "MultipleShot",
+        "addition":0
+    }
+
+}

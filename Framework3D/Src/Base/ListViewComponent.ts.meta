@@ -1,0 +1,17 @@
+{
+  "ver": "4.0.9",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "d16f3b39-c2a9-475f-bdec-a6ac0aba3c10",
+  "files": [
+    ".js",
+    "editor.js",
+    ".trans"
+  ],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/Framework3D/Src/Base/ListViewComponent.js",
+    "importerSettings": 7
+  }
+}

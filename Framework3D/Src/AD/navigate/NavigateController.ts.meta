@@ -1,0 +1,17 @@
+{
+  "ver": "4.0.9",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "f1fe461e-9f04-4b59-bb2c-6e4c59a17c34",
+  "files": [
+    ".js",
+    "editor.js",
+    ".trans"
+  ],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/Framework3D/Src/AD/navigate/NavigateController.js",
+    "importerSettings": 7
+  }
+}

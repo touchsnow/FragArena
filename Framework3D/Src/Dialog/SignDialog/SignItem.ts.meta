@@ -1,0 +1,17 @@
+{
+  "ver": "4.0.9",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "8e77d7e5-8775-4b23-8ca5-5da724a5755d",
+  "files": [
+    ".js",
+    "editor.js",
+    ".trans"
+  ],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/Framework3D/Src/Dialog/SignDialog/SignItem.js",
+    "importerSettings": 7
+  }
+}

@@ -1,0 +1,87 @@
+{
+    "1": {
+        "spritePath": "LevelReward/TrophyRoad_1/spriteFrame",
+        "skinName": "Oscar",
+        "level":1
+    },
+    "2": {
+        "spritePath": "LevelReward/TrophyRoad_2/spriteFrame",
+        "skinName": "Brutus",
+        "level":2
+    },
+    "3": {
+        "spritePath": "LevelReward/TrophyRoad_3/spriteFrame",
+        "skinName": "Ol'Larry",
+        "level":3
+    },
+    "4": {
+        "spritePath": "LevelReward/TrophyRoad_4/spriteFrame",
+        "skinName": "Archer",
+        "level":4
+    },
+    "5": {
+        "spritePath": "LevelReward/TrophyRoad_5/spriteFrame",
+        "skinName": "Orphelia",
+        "level":5
+    },
+    "6": {
+        "spritePath": "LevelReward/TrophyRoad_6/spriteFrame",
+        "skinName": "Luke",
+        "level":6
+    },
+    "7": {
+        "spritePath": "LevelReward/TrophyRoad_7/spriteFrame",
+        "skinName": "Limus",
+        "level":7
+    },
+    "8": {
+        "spritePath": "LevelReward/TrophyRoad_8/spriteFrame",
+        "skinName": "Lancelot",
+        "level":8
+    },
+    "9": {
+        "spritePath": "LevelReward/TrophyRoad_9/spriteFrame",
+        "skinName": "LeeFu",
+        "level":9
+    },
+    "10": {
+        "spritePath": "LevelReward/TrophyRoad_10/spriteFrame",
+        "skinName": "Ari",
+        "level":10
+    },
+    "11": {
+        "spritePath": "LevelReward/TrophyRoad_11/spriteFrame",
+        "skinName": "Willow",
+        "level":11
+    },
+    "12": {
+        "spritePath": "LevelReward/TrophyRoad_12/spriteFrame",
+        "skinName": "Bubblegum",
+        "level":12
+    },
+    "13": {
+        "spritePath": "LevelReward/TrophyRoad_13/spriteFrame",
+        "skinName": "H4XOR",
+        "level":13
+    },
+    "14": {
+        "spritePath": "LevelReward/TrophyRoad_14/spriteFrame",
+        "skinName": "Amanda",
+        "level":14
+    },
+    "15": {
+        "spritePath": "LevelReward/TrophyRoad_15/spriteFrame",
+        "skinName": "Merlin",
+        "level":15
+    },
+    "16": {
+        "spritePath": "LevelReward/TrophyRoad_16/spriteFrame",
+        "skinName": "TheSwindler",
+        "level":16
+    },
+    "17": {
+        "spritePath": "LevelReward/TrophyRoad_19/spriteFrame",
+        "skinName": "Arnold",
+        "level":19
+    }
+}

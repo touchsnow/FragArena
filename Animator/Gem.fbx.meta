@@ -1,0 +1,76 @@
+{
+  "ver": "2.0.2",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "63289df3-ea91-40e5-8081-47cd0e03c6c9",
+  "files": [],
+  "subMetas": {
+    "be668": {
+      "importer": "gltf-mesh",
+      "uuid": "63289df3-ea91-40e5-8081-47cd0e03c6c9@be668",
+      "displayName": "",
+      "id": "be668",
+      "name": "Crystal_Collectable:Crystal_Collectable_0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d883": {
+      "importer": "gltf-material",
+      "uuid": "63289df3-ea91-40e5-8081-47cd0e03c6c9@8d883",
+      "displayName": "",
+      "id": "8d883",
+      "name": "lambert1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "af650": {
+      "importer": "gltf-scene",
+      "uuid": "63289df3-ea91-40e5-8081-47cd0e03c6c9@af650",
+      "displayName": "",
+      "id": "af650",
+      "name": "Gem.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "63289df3-ea91-40e5-8081-47cd0e03c6c9@af650",
+    "assetFinder": {
+      "meshes": [
+        "63289df3-ea91-40e5-8081-47cd0e03c6c9@be668"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "63289df3-ea91-40e5-8081-47cd0e03c6c9@8d883"
+      ],
+      "scenes": [
+        "63289df3-ea91-40e5-8081-47cd0e03c6c9@af650"
+      ]
+    }
+  }
+}

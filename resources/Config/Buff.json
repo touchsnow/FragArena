@@ -1,0 +1,60 @@
+{
+    "AddSpeedBuff": {
+        "time": 15,
+        "addition": 0.5
+    },
+    "AttackUpperBuff": {
+        "time": 20,
+        "addition": 0.7
+    },
+    "FireAttackDeBuff": {
+        "time": 2,
+        "addition": 0.3
+    },
+    "LaserDeBuff": {
+        "time": 2,
+        "addition": 0.3
+    },
+    "FreezeDeBuff": {
+        "time": 1,
+        "addition": 0.3,
+        "maxDecelerate": 0.6,
+        "minDecelerate": 0.4,
+        "maxShotSpeed": 0.4,
+        "minShotSpeed": 0.2
+    },
+    "HealthBuff": {
+        "time": 5,
+        "addition": 0.08
+    },
+    "InfiniteBulletBuff": {
+        "time": 10,
+        "addition": 0
+    },
+    "PoisonDebuff": {
+        "time": 3,
+        "addition": 0.3,
+        "maxDecelerate": 0.4,
+        "minDecelerate": 0.2
+    },
+    "PromptlyAddHpBuff": {
+        "time": 0,
+        "addition": 0.4
+    },
+    "ShieldBuff": {
+        "tiem": 180,
+        "addition": 0
+    },
+    "BackFireBuff": {
+        "tiem": 180,
+        "addition": 0
+    },
+    "MultipleShotBuff": {
+        "tiem": 180,
+        "addition": 0
+    },
+    "SplitFireBuff": {
+        "tiem": 180,
+        "addition": 0
+    }
+}

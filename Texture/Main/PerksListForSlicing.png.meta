@@ -1,0 +1,73 @@
+{
+  "ver": "1.0.21",
+  "importer": "image",
+  "imported": true,
+  "uuid": "cecff1b7-7ede-4c8e-9b93-57a0cfe4749d",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "cecff1b7-7ede-4c8e-9b93-57a0cfe4749d@6c48a",
+      "displayName": "PerksListForSlicing",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "cecff1b7-7ede-4c8e-9b93-57a0cfe4749d"
+      },
+      "ver": "1.0.20",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "cecff1b7-7ede-4c8e-9b93-57a0cfe4749d@f9941",
+      "displayName": "PerksListForSlicing",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 2,
+        "trimY": 2,
+        "width": 117,
+        "height": 202,
+        "rawWidth": 121,
+        "rawHeight": 206,
+        "borderTop": 149,
+        "borderBottom": 23,
+        "borderLeft": 24,
+        "borderRight": 24,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "cecff1b7-7ede-4c8e-9b93-57a0cfe4749d@6c48a",
+        "atlasUuid": ""
+      },
+      "ver": "1.0.8",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "hasAlpha": true,
+    "type": "sprite-frame",
+    "redirect": "cecff1b7-7ede-4c8e-9b93-57a0cfe4749d@f9941"
+  }
+}

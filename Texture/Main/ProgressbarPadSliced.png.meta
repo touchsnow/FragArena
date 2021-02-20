@@ -1,0 +1,73 @@
+{
+  "ver": "1.0.21",
+  "importer": "image",
+  "imported": true,
+  "uuid": "f5edbb2a-58f9-48f7-9264-1e17941b1f8f",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "f5edbb2a-58f9-48f7-9264-1e17941b1f8f@6c48a",
+      "displayName": "ProgressbarPadSliced",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "f5edbb2a-58f9-48f7-9264-1e17941b1f8f"
+      },
+      "ver": "1.0.20",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "f5edbb2a-58f9-48f7-9264-1e17941b1f8f@f9941",
+      "displayName": "ProgressbarPadSliced",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 2,
+        "trimY": 2,
+        "width": 44,
+        "height": 63,
+        "rawWidth": 48,
+        "rawHeight": 67,
+        "borderTop": 11,
+        "borderBottom": 19,
+        "borderLeft": 11,
+        "borderRight": 10,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "f5edbb2a-58f9-48f7-9264-1e17941b1f8f@6c48a",
+        "atlasUuid": ""
+      },
+      "ver": "1.0.8",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "hasAlpha": true,
+    "type": "sprite-frame",
+    "redirect": "f5edbb2a-58f9-48f7-9264-1e17941b1f8f@f9941"
+  }
+}

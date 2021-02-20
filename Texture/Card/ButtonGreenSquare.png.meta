@@ -1,0 +1,73 @@
+{
+  "ver": "1.0.21",
+  "importer": "image",
+  "imported": true,
+  "uuid": "d96e8a9c-7b6d-4123-a71f-de5abdee547f",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "d96e8a9c-7b6d-4123-a71f-de5abdee547f@6c48a",
+      "displayName": "ButtonGreenSquare",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "d96e8a9c-7b6d-4123-a71f-de5abdee547f"
+      },
+      "ver": "1.0.20",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "d96e8a9c-7b6d-4123-a71f-de5abdee547f@f9941",
+      "displayName": "ButtonGreenSquare",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 2,
+        "trimY": 2,
+        "width": 176,
+        "height": 186,
+        "rawWidth": 180,
+        "rawHeight": 190,
+        "borderTop": 13,
+        "borderBottom": 27,
+        "borderLeft": 22,
+        "borderRight": 24,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "d96e8a9c-7b6d-4123-a71f-de5abdee547f@6c48a",
+        "atlasUuid": ""
+      },
+      "ver": "1.0.8",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "hasAlpha": true,
+    "type": "sprite-frame",
+    "redirect": "d96e8a9c-7b6d-4123-a71f-de5abdee547f@f9941"
+  }
+}

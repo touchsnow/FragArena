@@ -1,0 +1,73 @@
+{
+  "ver": "1.0.21",
+  "importer": "image",
+  "imported": true,
+  "uuid": "074e6bf0-47bd-48ed-853a-6921a9cec881",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "074e6bf0-47bd-48ed-853a-6921a9cec881@6c48a",
+      "displayName": "Progressbar_MainMenu_Level_Fill_Sliced",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "074e6bf0-47bd-48ed-853a-6921a9cec881"
+      },
+      "ver": "1.0.20",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "074e6bf0-47bd-48ed-853a-6921a9cec881@f9941",
+      "displayName": "Progressbar_MainMenu_Level_Fill_Sliced",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 2,
+        "trimY": 2,
+        "width": 34,
+        "height": 44,
+        "rawWidth": 38,
+        "rawHeight": 48,
+        "borderTop": 6,
+        "borderBottom": 7,
+        "borderLeft": 6,
+        "borderRight": 7,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "074e6bf0-47bd-48ed-853a-6921a9cec881@6c48a",
+        "atlasUuid": ""
+      },
+      "ver": "1.0.8",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "hasAlpha": true,
+    "type": "sprite-frame",
+    "redirect": "074e6bf0-47bd-48ed-853a-6921a9cec881@f9941"
+  }
+}

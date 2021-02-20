@@ -1,0 +1,73 @@
+{
+  "ver": "1.0.21",
+  "importer": "image",
+  "imported": true,
+  "uuid": "e46ed283-e13b-4f77-b37d-60bb7ffb4d2a",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "e46ed283-e13b-4f77-b37d-60bb7ffb4d2a@6c48a",
+      "displayName": "ButtonSquareBlue_MainMenu",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "e46ed283-e13b-4f77-b37d-60bb7ffb4d2a"
+      },
+      "ver": "1.0.20",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "e46ed283-e13b-4f77-b37d-60bb7ffb4d2a@f9941",
+      "displayName": "ButtonSquareBlue_MainMenu",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 2,
+        "trimY": 2,
+        "width": 176,
+        "height": 201,
+        "rawWidth": 180,
+        "rawHeight": 205,
+        "borderTop": 17,
+        "borderBottom": 39,
+        "borderLeft": 16,
+        "borderRight": 24,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "e46ed283-e13b-4f77-b37d-60bb7ffb4d2a@6c48a",
+        "atlasUuid": ""
+      },
+      "ver": "1.0.8",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "hasAlpha": true,
+    "type": "sprite-frame",
+    "redirect": "e46ed283-e13b-4f77-b37d-60bb7ffb4d2a@f9941"
+  }
+}

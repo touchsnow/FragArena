@@ -1,0 +1,148 @@
+{
+  "ver": "2.0.2",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "711b0197-5ea7-47ff-a7d9-2f7b7b6f4256",
+  "files": [],
+  "subMetas": {
+    "88284": {
+      "importer": "gltf-scene",
+      "uuid": "711b0197-5ea7-47ff-a7d9-2f7b7b6f4256@88284",
+      "displayName": "",
+      "id": "88284",
+      "name": "PowerUp_Mesh.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "82d1e": {
+      "importer": "gltf-mesh",
+      "uuid": "711b0197-5ea7-47ff-a7d9-2f7b7b6f4256@82d1e",
+      "displayName": "",
+      "id": "82d1e",
+      "name": "PolygonPowerupLightning:PolygonPowerupLightning_0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9706d": {
+      "importer": "gltf-mesh",
+      "uuid": "711b0197-5ea7-47ff-a7d9-2f7b7b6f4256@9706d",
+      "displayName": "",
+      "id": "9706d",
+      "name": "PolygonPowerupHeart:PolygonPowerupHeart_0.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "50cac": {
+      "importer": "gltf-mesh",
+      "uuid": "711b0197-5ea7-47ff-a7d9-2f7b7b6f4256@50cac",
+      "displayName": "",
+      "id": "50cac",
+      "name": "PolygonPowerupSpeed:PolygonPowerupSpeed_0.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "dff24": {
+      "importer": "gltf-mesh",
+      "uuid": "711b0197-5ea7-47ff-a7d9-2f7b7b6f4256@dff24",
+      "displayName": "",
+      "id": "dff24",
+      "name": "PolygonPowerupHealth:PolygonPowerupHealth_0.mesh",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9f386": {
+      "importer": "gltf-mesh",
+      "uuid": "711b0197-5ea7-47ff-a7d9-2f7b7b6f4256@9f386",
+      "displayName": "",
+      "id": "9f386",
+      "name": "PolygonPowerupBullets:PolygonPowerupBullets_0.mesh",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d883": {
+      "importer": "gltf-material",
+      "uuid": "711b0197-5ea7-47ff-a7d9-2f7b7b6f4256@8d883",
+      "displayName": "",
+      "id": "8d883",
+      "name": "lambert1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "711b0197-5ea7-47ff-a7d9-2f7b7b6f4256@88284",
+    "assetFinder": {
+      "meshes": [
+        "711b0197-5ea7-47ff-a7d9-2f7b7b6f4256@82d1e",
+        "711b0197-5ea7-47ff-a7d9-2f7b7b6f4256@9706d",
+        "711b0197-5ea7-47ff-a7d9-2f7b7b6f4256@50cac",
+        "711b0197-5ea7-47ff-a7d9-2f7b7b6f4256@dff24",
+        "711b0197-5ea7-47ff-a7d9-2f7b7b6f4256@9f386"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "711b0197-5ea7-47ff-a7d9-2f7b7b6f4256@8d883"
+      ],
+      "scenes": [
+        "711b0197-5ea7-47ff-a7d9-2f7b7b6f4256@88284"
+      ]
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "ver": "1.0.21",
+  "importer": "image",
+  "imported": true,
+  "uuid": "d5c1705f-8eba-4aa8-b0ec-6dd64d7a3c0f",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "d5c1705f-8eba-4aa8-b0ec-6dd64d7a3c0f@6c48a",
+      "displayName": "PopupPadForSlicing",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "d5c1705f-8eba-4aa8-b0ec-6dd64d7a3c0f"
+      },
+      "ver": "1.0.20",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "d5c1705f-8eba-4aa8-b0ec-6dd64d7a3c0f@f9941",
+      "displayName": "PopupPadForSlicing",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 2,
+        "trimY": 2,
+        "width": 85,
+        "height": 171,
+        "rawWidth": 89,
+        "rawHeight": 175,
+        "borderTop": 119,
+        "borderBottom": 41,
+        "borderLeft": 38,
+        "borderRight": 37,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "d5c1705f-8eba-4aa8-b0ec-6dd64d7a3c0f@6c48a",
+        "atlasUuid": ""
+      },
+      "ver": "1.0.8",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "hasAlpha": true,
+    "type": "sprite-frame",
+    "redirect": "d5c1705f-8eba-4aa8-b0ec-6dd64d7a3c0f@f9941"
+  }
+}

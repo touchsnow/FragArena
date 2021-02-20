@@ -1,0 +1,4603 @@
+{
+  "ver": "2.0.2",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7",
+  "files": [],
+  "subMetas": {
+    "13230": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@13230",
+      "displayName": "",
+      "id": "13230",
+      "name": "Ground 03 Grass (8)-148.mesh",
+      "userData": {
+        "gltfIndex": 148
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "16596": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@16596",
+      "displayName": "",
+      "id": "16596",
+      "name": "Bone Pillar 03-17.mesh",
+      "userData": {
+        "gltfIndex": 17
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "21055": {
+      "importer": "texture",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@21055",
+      "displayName": "",
+      "id": "21055",
+      "name": "Campfire Burnt Ground.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "b41179ab-6b0d-485b-a72f-b4dd144698c7@a38ea"
+      },
+      "ver": "1.0.20",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "21223": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@21223",
+      "displayName": "",
+      "id": "21223",
+      "name": "Wall Rock 01-47.mesh",
+      "userData": {
+        "gltfIndex": 47
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "25442": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@25442",
+      "displayName": "",
+      "id": "25442",
+      "name": "Big Rock 01 (4)-181.mesh",
+      "userData": {
+        "gltfIndex": 181
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "25647": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@25647",
+      "displayName": "",
+      "id": "25647",
+      "name": "Ground 02 Sand-129.mesh",
+      "userData": {
+        "gltfIndex": 129
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "27042": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@27042",
+      "displayName": "",
+      "id": "27042",
+      "name": "Ground 03 Grass (6)-147.mesh",
+      "userData": {
+        "gltfIndex": 147
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "29221": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@29221",
+      "displayName": "",
+      "id": "29221",
+      "name": "Ground 02 Grass (1)-133.mesh",
+      "userData": {
+        "gltfIndex": 133
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "31453": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@31453",
+      "displayName": "",
+      "id": "31453",
+      "name": "Ground 02 Grass (3)-138.mesh",
+      "userData": {
+        "gltfIndex": 138
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "37916": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@37916",
+      "displayName": "",
+      "id": "37916",
+      "name": "Grass (8)-95.mesh",
+      "userData": {
+        "gltfIndex": 95
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "41717": {
+      "importer": "texture",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@41717",
+      "displayName": "",
+      "id": "41717",
+      "name": "props_mix_a.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "b41179ab-6b0d-485b-a72f-b4dd144698c7@8e5d9"
+      },
+      "ver": "1.0.20",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "45870": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@45870",
+      "displayName": "",
+      "id": "45870",
+      "name": "Small Rock 03 Yellow (7)-206.mesh",
+      "userData": {
+        "gltfIndex": 206
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "50864": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@50864",
+      "displayName": "",
+      "id": "50864",
+      "name": "Ground 03 Grass (16)-157.mesh",
+      "userData": {
+        "gltfIndex": 157
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "55415": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@55415",
+      "displayName": "",
+      "id": "55415",
+      "name": "Wall Rock 01 (1)-51.mesh",
+      "userData": {
+        "gltfIndex": 51
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "60388": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@60388",
+      "displayName": "",
+      "id": "60388",
+      "name": "Wall Rock 02 (6)-55.mesh",
+      "userData": {
+        "gltfIndex": 55
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "61176": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@61176",
+      "displayName": "",
+      "id": "61176",
+      "name": "Decrepit Tree 01 Brown (1)-182.mesh",
+      "userData": {
+        "gltfIndex": 182
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "62710": {
+      "importer": "gltf-embeded-image",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@62710",
+      "displayName": "",
+      "id": "62710",
+      "name": "SimpleItems.png.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "65856": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@65856",
+      "displayName": "",
+      "id": "65856",
+      "name": "Items_SteakMeat_01-4.mesh",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "69173": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@69173",
+      "displayName": "",
+      "id": "69173",
+      "name": "Cone Tree 02 (7)-83.mesh",
+      "userData": {
+        "gltfIndex": 83
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "76190": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@76190",
+      "displayName": "",
+      "id": "76190",
+      "name": "Path 01 Grass-211.mesh",
+      "userData": {
+        "gltfIndex": 211
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "83786": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@83786",
+      "displayName": "",
+      "id": "83786",
+      "name": "Big Rock 01 (1)-170.mesh",
+      "userData": {
+        "gltfIndex": 170
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "89483": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@89483",
+      "displayName": "",
+      "id": "89483",
+      "name": "Path 02 Grass (1)-217.mesh",
+      "userData": {
+        "gltfIndex": 217
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "91150": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@91150",
+      "displayName": "",
+      "id": "91150",
+      "name": "Wall Rock 02 (8)-68.mesh",
+      "userData": {
+        "gltfIndex": 68
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "93345": {
+      "importer": "gltf-embeded-image",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@93345",
+      "displayName": "",
+      "id": "93345",
+      "name": "Grass.png.image",
+      "userData": {
+        "gltfIndex": 7
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "93825": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@93825",
+      "displayName": "",
+      "id": "93825",
+      "name": "Campfire Stone (1)-10.mesh",
+      "userData": {
+        "gltfIndex": 10
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "94025": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@94025",
+      "displayName": "",
+      "id": "94025",
+      "name": "Bone Pillar 02 (1)-20.mesh",
+      "userData": {
+        "gltfIndex": 20
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "94485": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@94485",
+      "displayName": "",
+      "id": "94485",
+      "name": "Ground 02 Sand (4)-122.mesh",
+      "userData": {
+        "gltfIndex": 122
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b3f51": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@b3f51",
+      "displayName": "",
+      "id": "b3f51",
+      "name": "Items_BoomBox_01-0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d6a1": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@8d6a1",
+      "displayName": "",
+      "id": "8d6a1",
+      "name": "Items_Burger_01-1.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e709f": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@e709f",
+      "displayName": "",
+      "id": "e709f",
+      "name": "Items_FryPan_01-2.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c72e2": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@c72e2",
+      "displayName": "",
+      "id": "c72e2",
+      "name": "Items_Spatula_01-3.mesh",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "81a54": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@81a54",
+      "displayName": "",
+      "id": "81a54",
+      "name": "Items_Camera_01-5.mesh",
+      "userData": {
+        "gltfIndex": 5
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ea5d4": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@ea5d4",
+      "displayName": "",
+      "id": "ea5d4",
+      "name": "Items_Chiller_03-6.mesh",
+      "userData": {
+        "gltfIndex": 6
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "cd471": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@cd471",
+      "displayName": "",
+      "id": "cd471",
+      "name": "Items_CoffeeCup_01-7.mesh",
+      "userData": {
+        "gltfIndex": 7
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1fbad": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@1fbad",
+      "displayName": "",
+      "id": "1fbad",
+      "name": "Campfire-8.mesh",
+      "userData": {
+        "gltfIndex": 8
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "aeac7": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@aeac7",
+      "displayName": "",
+      "id": "aeac7",
+      "name": "Campfire Stone-9.mesh",
+      "userData": {
+        "gltfIndex": 9
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3cab1": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@3cab1",
+      "displayName": "",
+      "id": "3cab1",
+      "name": "Campfire Stone (2)-11.mesh",
+      "userData": {
+        "gltfIndex": 11
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "367d3": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@367d3",
+      "displayName": "",
+      "id": "367d3",
+      "name": "Campfire Stone (3)-12.mesh",
+      "userData": {
+        "gltfIndex": 12
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e3b4b": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@e3b4b",
+      "displayName": "",
+      "id": "e3b4b",
+      "name": "Campfire Stone (4)-13.mesh",
+      "userData": {
+        "gltfIndex": 13
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fb792": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@fb792",
+      "displayName": "",
+      "id": "fb792",
+      "name": "Bone Pillar 02-14.mesh",
+      "userData": {
+        "gltfIndex": 14
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d2a42": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@d2a42",
+      "displayName": "",
+      "id": "d2a42",
+      "name": "Bone Pillar 01-15.mesh",
+      "userData": {
+        "gltfIndex": 15
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e7556": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@e7556",
+      "displayName": "",
+      "id": "e7556",
+      "name": "Bone Pillar 01 (1)-16.mesh",
+      "userData": {
+        "gltfIndex": 16
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "eca3e": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@eca3e",
+      "displayName": "",
+      "id": "eca3e",
+      "name": "Log Pin 02-18.mesh",
+      "userData": {
+        "gltfIndex": 18
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ca36d": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@ca36d",
+      "displayName": "",
+      "id": "ca36d",
+      "name": "Log Pin 01-19.mesh",
+      "userData": {
+        "gltfIndex": 19
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "69d00": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@69d00",
+      "displayName": "",
+      "id": "69d00",
+      "name": "Log Pin 01 (1)-21.mesh",
+      "userData": {
+        "gltfIndex": 21
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a33e3": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@a33e3",
+      "displayName": "",
+      "id": "a33e3",
+      "name": "Log Pin 02 (1)-22.mesh",
+      "userData": {
+        "gltfIndex": 22
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5adce": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@5adce",
+      "displayName": "",
+      "id": "5adce",
+      "name": "Wall Rock 02 (6)-23.mesh",
+      "userData": {
+        "gltfIndex": 23
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2096d": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@2096d",
+      "displayName": "",
+      "id": "2096d",
+      "name": "Wall Rock 01 (2)-24.mesh",
+      "userData": {
+        "gltfIndex": 24
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "570a0": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@570a0",
+      "displayName": "",
+      "id": "570a0",
+      "name": "Wall Rock 01 (3)-25.mesh",
+      "userData": {
+        "gltfIndex": 25
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b1668": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@b1668",
+      "displayName": "",
+      "id": "b1668",
+      "name": "Wall Rock 01-26.mesh",
+      "userData": {
+        "gltfIndex": 26
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fd4df": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@fd4df",
+      "displayName": "",
+      "id": "fd4df",
+      "name": "Wall Rock 02-27.mesh",
+      "userData": {
+        "gltfIndex": 27
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "24bea": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@24bea",
+      "displayName": "",
+      "id": "24bea",
+      "name": "Wall Rock 03-28.mesh",
+      "userData": {
+        "gltfIndex": 28
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c485d": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@c485d",
+      "displayName": "",
+      "id": "c485d",
+      "name": "Wall Rock 02 (1)-29.mesh",
+      "userData": {
+        "gltfIndex": 29
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0237e": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@0237e",
+      "displayName": "",
+      "id": "0237e",
+      "name": "Wall Rock 01 (1)-30.mesh",
+      "userData": {
+        "gltfIndex": 30
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a177e": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@a177e",
+      "displayName": "",
+      "id": "a177e",
+      "name": "Wall Rock 02 (2)-31.mesh",
+      "userData": {
+        "gltfIndex": 31
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fa6eb": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@fa6eb",
+      "displayName": "",
+      "id": "fa6eb",
+      "name": "Wall Rock 02 (3)-32.mesh",
+      "userData": {
+        "gltfIndex": 32
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "710f6": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@710f6",
+      "displayName": "",
+      "id": "710f6",
+      "name": "Wall Rock 02 (4)-33.mesh",
+      "userData": {
+        "gltfIndex": 33
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "673e0": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@673e0",
+      "displayName": "",
+      "id": "673e0",
+      "name": "Wall Rock 02 (5)-34.mesh",
+      "userData": {
+        "gltfIndex": 34
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c51a2": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@c51a2",
+      "displayName": "",
+      "id": "c51a2",
+      "name": "Wall Rock 01 (2)-35.mesh",
+      "userData": {
+        "gltfIndex": 35
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ff5f5": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@ff5f5",
+      "displayName": "",
+      "id": "ff5f5",
+      "name": "Wall Rock 02 (6)-36.mesh",
+      "userData": {
+        "gltfIndex": 36
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "998b3": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@998b3",
+      "displayName": "",
+      "id": "998b3",
+      "name": "Wall Rock 02 (7)-37.mesh",
+      "userData": {
+        "gltfIndex": 37
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6b222": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@6b222",
+      "displayName": "",
+      "id": "6b222",
+      "name": "Wall Rock 01-38.mesh",
+      "userData": {
+        "gltfIndex": 38
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "50b52": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@50b52",
+      "displayName": "",
+      "id": "50b52",
+      "name": "Wall Rock 02-39.mesh",
+      "userData": {
+        "gltfIndex": 39
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "04acb": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@04acb",
+      "displayName": "",
+      "id": "04acb",
+      "name": "Wall Rock 03-40.mesh",
+      "userData": {
+        "gltfIndex": 40
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "86d37": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@86d37",
+      "displayName": "",
+      "id": "86d37",
+      "name": "Wall Rock 02 (1)-41.mesh",
+      "userData": {
+        "gltfIndex": 41
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "84e62": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@84e62",
+      "displayName": "",
+      "id": "84e62",
+      "name": "Wall Rock 01 (1)-42.mesh",
+      "userData": {
+        "gltfIndex": 42
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "435cd": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@435cd",
+      "displayName": "",
+      "id": "435cd",
+      "name": "Wall Rock 02 (2)-43.mesh",
+      "userData": {
+        "gltfIndex": 43
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f2b18": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@f2b18",
+      "displayName": "",
+      "id": "f2b18",
+      "name": "Wall Rock 02 (3)-44.mesh",
+      "userData": {
+        "gltfIndex": 44
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "816ec": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@816ec",
+      "displayName": "",
+      "id": "816ec",
+      "name": "Wall Rock 02 (4)-45.mesh",
+      "userData": {
+        "gltfIndex": 45
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "62ce0": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@62ce0",
+      "displayName": "",
+      "id": "62ce0",
+      "name": "Wall Rock 02 (5)-46.mesh",
+      "userData": {
+        "gltfIndex": 46
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1fc17": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@1fc17",
+      "displayName": "",
+      "id": "1fc17",
+      "name": "Wall Rock 02-48.mesh",
+      "userData": {
+        "gltfIndex": 48
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "53d8a": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@53d8a",
+      "displayName": "",
+      "id": "53d8a",
+      "name": "Wall Rock 03-49.mesh",
+      "userData": {
+        "gltfIndex": 49
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "669cf": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@669cf",
+      "displayName": "",
+      "id": "669cf",
+      "name": "Wall Rock 02 (1)-50.mesh",
+      "userData": {
+        "gltfIndex": 50
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b3272": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@b3272",
+      "displayName": "",
+      "id": "b3272",
+      "name": "Wall Rock 02 (2)-52.mesh",
+      "userData": {
+        "gltfIndex": 52
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b1068": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@b1068",
+      "displayName": "",
+      "id": "b1068",
+      "name": "Wall Rock 02 (3)-53.mesh",
+      "userData": {
+        "gltfIndex": 53
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bf4bc": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@bf4bc",
+      "displayName": "",
+      "id": "bf4bc",
+      "name": "Wall Rock 02 (5)-54.mesh",
+      "userData": {
+        "gltfIndex": 54
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1c0bf": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@1c0bf",
+      "displayName": "",
+      "id": "1c0bf",
+      "name": "Wall Rock 01 (2)-56.mesh",
+      "userData": {
+        "gltfIndex": 56
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "78dd9": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@78dd9",
+      "displayName": "",
+      "id": "78dd9",
+      "name": "Wall Rock 01-57.mesh",
+      "userData": {
+        "gltfIndex": 57
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d723b": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@d723b",
+      "displayName": "",
+      "id": "d723b",
+      "name": "Wall Rock 02-58.mesh",
+      "userData": {
+        "gltfIndex": 58
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a6c57": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@a6c57",
+      "displayName": "",
+      "id": "a6c57",
+      "name": "Wall Rock 03-59.mesh",
+      "userData": {
+        "gltfIndex": 59
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "17ffb": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@17ffb",
+      "displayName": "",
+      "id": "17ffb",
+      "name": "Wall Rock 02 (1)-60.mesh",
+      "userData": {
+        "gltfIndex": 60
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "604d4": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@604d4",
+      "displayName": "",
+      "id": "604d4",
+      "name": "Wall Rock 01 (1)-61.mesh",
+      "userData": {
+        "gltfIndex": 61
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "894b0": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@894b0",
+      "displayName": "",
+      "id": "894b0",
+      "name": "Wall Rock 02 (2)-62.mesh",
+      "userData": {
+        "gltfIndex": 62
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6761d": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@6761d",
+      "displayName": "",
+      "id": "6761d",
+      "name": "Wall Rock 02 (3)-63.mesh",
+      "userData": {
+        "gltfIndex": 63
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "cd8df": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@cd8df",
+      "displayName": "",
+      "id": "cd8df",
+      "name": "Wall Rock 02 (4)-64.mesh",
+      "userData": {
+        "gltfIndex": 64
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "335ce": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@335ce",
+      "displayName": "",
+      "id": "335ce",
+      "name": "Wall Rock 02 (5)-65.mesh",
+      "userData": {
+        "gltfIndex": 65
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "11f82": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@11f82",
+      "displayName": "",
+      "id": "11f82",
+      "name": "Wall Rock 01 (1)-66.mesh",
+      "userData": {
+        "gltfIndex": 66
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3afa8": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@3afa8",
+      "displayName": "",
+      "id": "3afa8",
+      "name": "Wall Rock 01-67.mesh",
+      "userData": {
+        "gltfIndex": 67
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3fd16": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@3fd16",
+      "displayName": "",
+      "id": "3fd16",
+      "name": "Log (2)-69.mesh",
+      "userData": {
+        "gltfIndex": 69
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "51d81": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@51d81",
+      "displayName": "",
+      "id": "51d81",
+      "name": "Log-70.mesh",
+      "userData": {
+        "gltfIndex": 70
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3c5cb": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@3c5cb",
+      "displayName": "",
+      "id": "3c5cb",
+      "name": "Log (3)-71.mesh",
+      "userData": {
+        "gltfIndex": 71
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "de7d5": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@de7d5",
+      "displayName": "",
+      "id": "de7d5",
+      "name": "Log (4)-72.mesh",
+      "userData": {
+        "gltfIndex": 72
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c9872": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@c9872",
+      "displayName": "",
+      "id": "c9872",
+      "name": "Log (5)-73.mesh",
+      "userData": {
+        "gltfIndex": 73
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4e919": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@4e919",
+      "displayName": "",
+      "id": "4e919",
+      "name": "Log (1)-74.mesh",
+      "userData": {
+        "gltfIndex": 74
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "eaa20": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@eaa20",
+      "displayName": "",
+      "id": "eaa20",
+      "name": "Cone Tree 02 (1)-75.mesh",
+      "userData": {
+        "gltfIndex": 75
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "dac95": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@dac95",
+      "displayName": "",
+      "id": "dac95",
+      "name": "Cone Tree - Green (1)-76.mesh",
+      "userData": {
+        "gltfIndex": 76
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "24cae": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@24cae",
+      "displayName": "",
+      "id": "24cae",
+      "name": "Cone Tree 02 (3)-77.mesh",
+      "userData": {
+        "gltfIndex": 77
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "cdea3": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@cdea3",
+      "displayName": "",
+      "id": "cdea3",
+      "name": "Cone Tree - Green (2)-78.mesh",
+      "userData": {
+        "gltfIndex": 78
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3e30d": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@3e30d",
+      "displayName": "",
+      "id": "3e30d",
+      "name": "Cone Tree 02 (4)-79.mesh",
+      "userData": {
+        "gltfIndex": 79
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c3404": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@c3404",
+      "displayName": "",
+      "id": "c3404",
+      "name": "Cone Tree - Green (3)-80.mesh",
+      "userData": {
+        "gltfIndex": 80
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b592a": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@b592a",
+      "displayName": "",
+      "id": "b592a",
+      "name": "Cone Tree 02 (5)-81.mesh",
+      "userData": {
+        "gltfIndex": 81
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d1663": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@d1663",
+      "displayName": "",
+      "id": "d1663",
+      "name": "Cone Tree 02 (6)-82.mesh",
+      "userData": {
+        "gltfIndex": 82
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "512dd": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@512dd",
+      "displayName": "",
+      "id": "512dd",
+      "name": "Cone Tree 02 (2)-84.mesh",
+      "userData": {
+        "gltfIndex": 84
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "92bcf": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@92bcf",
+      "displayName": "",
+      "id": "92bcf",
+      "name": "Cone Tree - Green-85.mesh",
+      "userData": {
+        "gltfIndex": 85
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e29da": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@e29da",
+      "displayName": "",
+      "id": "e29da",
+      "name": "Cone Tree 02-86.mesh",
+      "userData": {
+        "gltfIndex": 86
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ecee7": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@ecee7",
+      "displayName": "",
+      "id": "ecee7",
+      "name": "Cone Tree 02 (8)-87.mesh",
+      "userData": {
+        "gltfIndex": 87
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "02519": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@02519",
+      "displayName": "",
+      "id": "02519",
+      "name": "Grass (3)-88.mesh",
+      "userData": {
+        "gltfIndex": 88
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d657": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@8d657",
+      "displayName": "",
+      "id": "8d657",
+      "name": "Grass (1)-89.mesh",
+      "userData": {
+        "gltfIndex": 89
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0311f": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@0311f",
+      "displayName": "",
+      "id": "0311f",
+      "name": "Grass (4)-90.mesh",
+      "userData": {
+        "gltfIndex": 90
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ad8b9": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@ad8b9",
+      "displayName": "",
+      "id": "ad8b9",
+      "name": "Grass (2)-91.mesh",
+      "userData": {
+        "gltfIndex": 91
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b4e72": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@b4e72",
+      "displayName": "",
+      "id": "b4e72",
+      "name": "Grass (5)-92.mesh",
+      "userData": {
+        "gltfIndex": 92
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "44bfb": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@44bfb",
+      "displayName": "",
+      "id": "44bfb",
+      "name": "Grass (6)-93.mesh",
+      "userData": {
+        "gltfIndex": 93
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7e434": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@7e434",
+      "displayName": "",
+      "id": "7e434",
+      "name": "Grass (7)-94.mesh",
+      "userData": {
+        "gltfIndex": 94
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b4fab": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@b4fab",
+      "displayName": "",
+      "id": "b4fab",
+      "name": "Grass-96.mesh",
+      "userData": {
+        "gltfIndex": 96
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4db34": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@4db34",
+      "displayName": "",
+      "id": "4db34",
+      "name": "Grass (9)-97.mesh",
+      "userData": {
+        "gltfIndex": 97
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e1a2c": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@e1a2c",
+      "displayName": "",
+      "id": "e1a2c",
+      "name": "Grass (10)-98.mesh",
+      "userData": {
+        "gltfIndex": 98
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4265a": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@4265a",
+      "displayName": "",
+      "id": "4265a",
+      "name": "Grass (11)-99.mesh",
+      "userData": {
+        "gltfIndex": 99
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a99a2": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@a99a2",
+      "displayName": "",
+      "id": "a99a2",
+      "name": "SwingSet-100.mesh",
+      "userData": {
+        "gltfIndex": 100
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "815fd": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@815fd",
+      "displayName": "",
+      "id": "815fd",
+      "name": "Sandpit-101.mesh",
+      "userData": {
+        "gltfIndex": 101
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2b3c5": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@2b3c5",
+      "displayName": "",
+      "id": "2b3c5",
+      "name": "Park_bench_01-102.mesh",
+      "userData": {
+        "gltfIndex": 102
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "db242": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@db242",
+      "displayName": "",
+      "id": "db242",
+      "name": "Park_bench_01 (1)-103.mesh",
+      "userData": {
+        "gltfIndex": 103
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "dd7aa": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@dd7aa",
+      "displayName": "",
+      "id": "dd7aa",
+      "name": "Vehicle_Boat_01-104.mesh",
+      "userData": {
+        "gltfIndex": 104
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c797c": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@c797c",
+      "displayName": "",
+      "id": "c797c",
+      "name": "Vehicle_Boat_02-105.mesh",
+      "userData": {
+        "gltfIndex": 105
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0af14": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@0af14",
+      "displayName": "",
+      "id": "0af14",
+      "name": "Prop_Beachseat_03-106.mesh",
+      "userData": {
+        "gltfIndex": 106
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "54f6f": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@54f6f",
+      "displayName": "",
+      "id": "54f6f",
+      "name": "Prop_Beachseat_02-107.mesh",
+      "userData": {
+        "gltfIndex": 107
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f1372": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@f1372",
+      "displayName": "",
+      "id": "f1372",
+      "name": "Prop_Beachseat_01-108.mesh",
+      "userData": {
+        "gltfIndex": 108
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4ff24": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@4ff24",
+      "displayName": "",
+      "id": "4ff24",
+      "name": "Prop_Umbrella_01-109.mesh",
+      "userData": {
+        "gltfIndex": 109
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "01066": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@01066",
+      "displayName": "",
+      "id": "01066",
+      "name": "Prop_Umbrella_01 (1)-110.mesh",
+      "userData": {
+        "gltfIndex": 110
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a88f9": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@a88f9",
+      "displayName": "",
+      "id": "a88f9",
+      "name": "Prop_Umbrella_01 (2)-111.mesh",
+      "userData": {
+        "gltfIndex": 111
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d9005": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@d9005",
+      "displayName": "",
+      "id": "d9005",
+      "name": "Prop_Beachseat_03 (1)-112.mesh",
+      "userData": {
+        "gltfIndex": 112
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1e8bb": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@1e8bb",
+      "displayName": "",
+      "id": "1e8bb",
+      "name": "Jetty-113.mesh",
+      "userData": {
+        "gltfIndex": 113
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a8e45": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@a8e45",
+      "displayName": "",
+      "id": "a8e45",
+      "name": "Ocean 02-114.mesh",
+      "userData": {
+        "gltfIndex": 114
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "eeb12": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@eeb12",
+      "displayName": "",
+      "id": "eeb12",
+      "name": "Campfire Burnt Ground-115.mesh",
+      "userData": {
+        "gltfIndex": 115
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ab3e1": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@ab3e1",
+      "displayName": "",
+      "id": "ab3e1",
+      "name": "Ground 03 Sand (1)-116.mesh",
+      "userData": {
+        "gltfIndex": 116
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fafc0": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@fafc0",
+      "displayName": "",
+      "id": "fafc0",
+      "name": "Ground 02 Sand (1)-117.mesh",
+      "userData": {
+        "gltfIndex": 117
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "09c40": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@09c40",
+      "displayName": "",
+      "id": "09c40",
+      "name": "Ground 03 Sand (2)-118.mesh",
+      "userData": {
+        "gltfIndex": 118
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0cb58": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@0cb58",
+      "displayName": "",
+      "id": "0cb58",
+      "name": "Ground 03 Sand (3)-119.mesh",
+      "userData": {
+        "gltfIndex": 119
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e71a6": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@e71a6",
+      "displayName": "",
+      "id": "e71a6",
+      "name": "Ground 02 Sand (2)-120.mesh",
+      "userData": {
+        "gltfIndex": 120
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "76bc6": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@76bc6",
+      "displayName": "",
+      "id": "76bc6",
+      "name": "Ground 02 Sand (3)-121.mesh",
+      "userData": {
+        "gltfIndex": 121
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9af42": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@9af42",
+      "displayName": "",
+      "id": "9af42",
+      "name": "Ground 02 Sand (5)-123.mesh",
+      "userData": {
+        "gltfIndex": 123
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bfb36": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@bfb36",
+      "displayName": "",
+      "id": "bfb36",
+      "name": "Ground 03 Sand (4)-124.mesh",
+      "userData": {
+        "gltfIndex": 124
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ac04d": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@ac04d",
+      "displayName": "",
+      "id": "ac04d",
+      "name": "Ground 02 Sand (6)-125.mesh",
+      "userData": {
+        "gltfIndex": 125
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e7825": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@e7825",
+      "displayName": "",
+      "id": "e7825",
+      "name": "Ground 03 Sand (5)-126.mesh",
+      "userData": {
+        "gltfIndex": 126
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a9544": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@a9544",
+      "displayName": "",
+      "id": "a9544",
+      "name": "Ground 02 Sand (7)-127.mesh",
+      "userData": {
+        "gltfIndex": 127
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "96c34": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@96c34",
+      "displayName": "",
+      "id": "96c34",
+      "name": "Ground 03 Sand-128.mesh",
+      "userData": {
+        "gltfIndex": 128
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "72fe1": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@72fe1",
+      "displayName": "",
+      "id": "72fe1",
+      "name": "Ground 03 Grass (1)-130.mesh",
+      "userData": {
+        "gltfIndex": 130
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ad462": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@ad462",
+      "displayName": "",
+      "id": "ad462",
+      "name": "Ground 02 Grass (2)-131.mesh",
+      "userData": {
+        "gltfIndex": 131
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "11e56": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@11e56",
+      "displayName": "",
+      "id": "11e56",
+      "name": "Ground 03 Grass (6)-132.mesh",
+      "userData": {
+        "gltfIndex": 132
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a75c0": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@a75c0",
+      "displayName": "",
+      "id": "a75c0",
+      "name": "Ground 03 Grass (8)-134.mesh",
+      "userData": {
+        "gltfIndex": 134
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f1739": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@f1739",
+      "displayName": "",
+      "id": "f1739",
+      "name": "Ground 03 Grass (9)-135.mesh",
+      "userData": {
+        "gltfIndex": 135
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9ab42": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@9ab42",
+      "displayName": "",
+      "id": "9ab42",
+      "name": "Ground 03 Grass (10)-136.mesh",
+      "userData": {
+        "gltfIndex": 136
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c0b60": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@c0b60",
+      "displayName": "",
+      "id": "c0b60",
+      "name": "Ground 03 Grass (11)-137.mesh",
+      "userData": {
+        "gltfIndex": 137
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "154f6": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@154f6",
+      "displayName": "",
+      "id": "154f6",
+      "name": "Ground 03 Grass (12)-139.mesh",
+      "userData": {
+        "gltfIndex": 139
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c2ed3": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@c2ed3",
+      "displayName": "",
+      "id": "c2ed3",
+      "name": "Ground 03 Grass (13)-140.mesh",
+      "userData": {
+        "gltfIndex": 140
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3d283": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@3d283",
+      "displayName": "",
+      "id": "3d283",
+      "name": "Ground 03 Grass (14)-141.mesh",
+      "userData": {
+        "gltfIndex": 141
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4f2f0": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@4f2f0",
+      "displayName": "",
+      "id": "4f2f0",
+      "name": "Ground 03 Grass (15)-142.mesh",
+      "userData": {
+        "gltfIndex": 142
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "300bb": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@300bb",
+      "displayName": "",
+      "id": "300bb",
+      "name": "Ground 03 Grass (16)-143.mesh",
+      "userData": {
+        "gltfIndex": 143
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f8858": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@f8858",
+      "displayName": "",
+      "id": "f8858",
+      "name": "Ground 03 Grass (17)-144.mesh",
+      "userData": {
+        "gltfIndex": 144
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fc5ab": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@fc5ab",
+      "displayName": "",
+      "id": "fc5ab",
+      "name": "Ground 03 Grass (18)-145.mesh",
+      "userData": {
+        "gltfIndex": 145
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6223c": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@6223c",
+      "displayName": "",
+      "id": "6223c",
+      "name": "Ground 03 Grass (19)-146.mesh",
+      "userData": {
+        "gltfIndex": 146
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a056b": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@a056b",
+      "displayName": "",
+      "id": "a056b",
+      "name": "Ground 03 Grass (9)-149.mesh",
+      "userData": {
+        "gltfIndex": 149
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d0ab8": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@d0ab8",
+      "displayName": "",
+      "id": "d0ab8",
+      "name": "Ground 03 Grass (10)-150.mesh",
+      "userData": {
+        "gltfIndex": 150
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4eb1a": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@4eb1a",
+      "displayName": "",
+      "id": "4eb1a",
+      "name": "Ground 03 Grass (11)-151.mesh",
+      "userData": {
+        "gltfIndex": 151
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fcd10": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@fcd10",
+      "displayName": "",
+      "id": "fcd10",
+      "name": "Ground 03 Grass (12)-152.mesh",
+      "userData": {
+        "gltfIndex": 152
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f8614": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@f8614",
+      "displayName": "",
+      "id": "f8614",
+      "name": "Ground 03 Grass (13)-153.mesh",
+      "userData": {
+        "gltfIndex": 153
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "007f6": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@007f6",
+      "displayName": "",
+      "id": "007f6",
+      "name": "Ground 02 Grass (6)-154.mesh",
+      "userData": {
+        "gltfIndex": 154
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6417e": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@6417e",
+      "displayName": "",
+      "id": "6417e",
+      "name": "Ground 02 Grass-155.mesh",
+      "userData": {
+        "gltfIndex": 155
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c9131": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@c9131",
+      "displayName": "",
+      "id": "c9131",
+      "name": "Ground 03 Grass (5)-156.mesh",
+      "userData": {
+        "gltfIndex": 156
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c76f3": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@c76f3",
+      "displayName": "",
+      "id": "c76f3",
+      "name": "Ground 03 Grass-158.mesh",
+      "userData": {
+        "gltfIndex": 158
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a2c65": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@a2c65",
+      "displayName": "",
+      "id": "a2c65",
+      "name": "Ground 03 Grass (2)-159.mesh",
+      "userData": {
+        "gltfIndex": 159
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3b6ab": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@3b6ab",
+      "displayName": "",
+      "id": "3b6ab",
+      "name": "Ground 03 Grass (4)-160.mesh",
+      "userData": {
+        "gltfIndex": 160
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "76f91": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@76f91",
+      "displayName": "",
+      "id": "76f91",
+      "name": "Ground 03 Grass (7)-161.mesh",
+      "userData": {
+        "gltfIndex": 161
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "72d3b": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@72d3b",
+      "displayName": "",
+      "id": "72d3b",
+      "name": "Ground 03 Grass (1)-162.mesh",
+      "userData": {
+        "gltfIndex": 162
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6e100": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@6e100",
+      "displayName": "",
+      "id": "6e100",
+      "name": "Ground 03 Grass (14)-163.mesh",
+      "userData": {
+        "gltfIndex": 163
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "80d6a": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@80d6a",
+      "displayName": "",
+      "id": "80d6a",
+      "name": "Ground 03 Grass (3)-164.mesh",
+      "userData": {
+        "gltfIndex": 164
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0a1ef": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@0a1ef",
+      "displayName": "",
+      "id": "0a1ef",
+      "name": "Ground 02 Grass (4)-165.mesh",
+      "userData": {
+        "gltfIndex": 165
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "419b2": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@419b2",
+      "displayName": "",
+      "id": "419b2",
+      "name": "Big Rock 02-166.mesh",
+      "userData": {
+        "gltfIndex": 166
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9ad09": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@9ad09",
+      "displayName": "",
+      "id": "9ad09",
+      "name": "Big Rock 01 (1)-167.mesh",
+      "userData": {
+        "gltfIndex": 167
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a66d7": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@a66d7",
+      "displayName": "",
+      "id": "a66d7",
+      "name": "Big Rock 01-168.mesh",
+      "userData": {
+        "gltfIndex": 168
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "333d6": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@333d6",
+      "displayName": "",
+      "id": "333d6",
+      "name": "Big Rock 02-169.mesh",
+      "userData": {
+        "gltfIndex": 169
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d868c": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@d868c",
+      "displayName": "",
+      "id": "d868c",
+      "name": "Big Rock 01-171.mesh",
+      "userData": {
+        "gltfIndex": 171
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a7ea1": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@a7ea1",
+      "displayName": "",
+      "id": "a7ea1",
+      "name": "Big Rock 02 (1)-172.mesh",
+      "userData": {
+        "gltfIndex": 172
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c5234": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@c5234",
+      "displayName": "",
+      "id": "c5234",
+      "name": "Big Rock 02 (2)-173.mesh",
+      "userData": {
+        "gltfIndex": 173
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "534a1": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@534a1",
+      "displayName": "",
+      "id": "534a1",
+      "name": "Big Rock 02 (3)-174.mesh",
+      "userData": {
+        "gltfIndex": 174
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bf9a6": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@bf9a6",
+      "displayName": "",
+      "id": "bf9a6",
+      "name": "Big Rock 01-175.mesh",
+      "userData": {
+        "gltfIndex": 175
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7d045": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@7d045",
+      "displayName": "",
+      "id": "7d045",
+      "name": "Big Rock 02-176.mesh",
+      "userData": {
+        "gltfIndex": 176
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0a8f0": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@0a8f0",
+      "displayName": "",
+      "id": "0a8f0",
+      "name": "Big Rock 01 (2)-177.mesh",
+      "userData": {
+        "gltfIndex": 177
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "658f1": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@658f1",
+      "displayName": "",
+      "id": "658f1",
+      "name": "Big Rock 02 (4)-178.mesh",
+      "userData": {
+        "gltfIndex": 178
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "870de": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@870de",
+      "displayName": "",
+      "id": "870de",
+      "name": "Big Rock 02 (5)-179.mesh",
+      "userData": {
+        "gltfIndex": 179
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0afd2": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@0afd2",
+      "displayName": "",
+      "id": "0afd2",
+      "name": "Big Rock 01 (3)-180.mesh",
+      "userData": {
+        "gltfIndex": 180
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6b831": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@6b831",
+      "displayName": "",
+      "id": "6b831",
+      "name": "Decrepit Tree 01 Brown (3)-183.mesh",
+      "userData": {
+        "gltfIndex": 183
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ef4a7": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@ef4a7",
+      "displayName": "",
+      "id": "ef4a7",
+      "name": "Decrepit Tree 01 Brown (2)-184.mesh",
+      "userData": {
+        "gltfIndex": 184
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a3bc5": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@a3bc5",
+      "displayName": "",
+      "id": "a3bc5",
+      "name": "Decrepit Tree 01 Brown-185.mesh",
+      "userData": {
+        "gltfIndex": 185
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7800b": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@7800b",
+      "displayName": "",
+      "id": "7800b",
+      "name": "Plate 01 Grey-186.mesh",
+      "userData": {
+        "gltfIndex": 186
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8e9c2": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@8e9c2",
+      "displayName": "",
+      "id": "8e9c2",
+      "name": "flower_mesh-187.mesh",
+      "userData": {
+        "gltfIndex": 187
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6fec1": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@6fec1",
+      "displayName": "",
+      "id": "6fec1",
+      "name": "flower_mesh (1)-188.mesh",
+      "userData": {
+        "gltfIndex": 188
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1551a": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@1551a",
+      "displayName": "",
+      "id": "1551a",
+      "name": "flower_mesh (2)-189.mesh",
+      "userData": {
+        "gltfIndex": 189
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1d900": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@1d900",
+      "displayName": "",
+      "id": "1d900",
+      "name": "flower_mesh (3)-190.mesh",
+      "userData": {
+        "gltfIndex": 190
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "15e56": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@15e56",
+      "displayName": "",
+      "id": "15e56",
+      "name": "flower_mesh (4)-191.mesh",
+      "userData": {
+        "gltfIndex": 191
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a82c2": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@a82c2",
+      "displayName": "",
+      "id": "a82c2",
+      "name": "flower_mesh (5)-192.mesh",
+      "userData": {
+        "gltfIndex": 192
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3316a": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@3316a",
+      "displayName": "",
+      "id": "3316a",
+      "name": "flower_mesh (6)-193.mesh",
+      "userData": {
+        "gltfIndex": 193
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2633d": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@2633d",
+      "displayName": "",
+      "id": "2633d",
+      "name": "flower_mesh (7)-194.mesh",
+      "userData": {
+        "gltfIndex": 194
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3550a": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@3550a",
+      "displayName": "",
+      "id": "3550a",
+      "name": "Small Rock 02 Yellow-195.mesh",
+      "userData": {
+        "gltfIndex": 195
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7b181": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@7b181",
+      "displayName": "",
+      "id": "7b181",
+      "name": "Small Rock 03 Yellow-196.mesh",
+      "userData": {
+        "gltfIndex": 196
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "12fd5": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@12fd5",
+      "displayName": "",
+      "id": "12fd5",
+      "name": "Small Rock 02 Yellow (1)-197.mesh",
+      "userData": {
+        "gltfIndex": 197
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ede2e": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@ede2e",
+      "displayName": "",
+      "id": "ede2e",
+      "name": "Small Rock 03 Yellow (1)-198.mesh",
+      "userData": {
+        "gltfIndex": 198
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5638f": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@5638f",
+      "displayName": "",
+      "id": "5638f",
+      "name": "Small Rock 02 Yellow (2)-199.mesh",
+      "userData": {
+        "gltfIndex": 199
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "293bb": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@293bb",
+      "displayName": "",
+      "id": "293bb",
+      "name": "Small Rock 02 Yellow (3)-200.mesh",
+      "userData": {
+        "gltfIndex": 200
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6af41": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@6af41",
+      "displayName": "",
+      "id": "6af41",
+      "name": "Small Rock 03 Yellow (2)-201.mesh",
+      "userData": {
+        "gltfIndex": 201
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c4436": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@c4436",
+      "displayName": "",
+      "id": "c4436",
+      "name": "Small Rock 03 Yellow (3)-202.mesh",
+      "userData": {
+        "gltfIndex": 202
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5088c": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@5088c",
+      "displayName": "",
+      "id": "5088c",
+      "name": "Small Rock 03 Yellow (4)-203.mesh",
+      "userData": {
+        "gltfIndex": 203
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f2578": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@f2578",
+      "displayName": "",
+      "id": "f2578",
+      "name": "Small Rock 03 Yellow (5)-204.mesh",
+      "userData": {
+        "gltfIndex": 204
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "32c7e": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@32c7e",
+      "displayName": "",
+      "id": "32c7e",
+      "name": "Small Rock 03 Yellow (6)-205.mesh",
+      "userData": {
+        "gltfIndex": 205
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "af4f1": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@af4f1",
+      "displayName": "",
+      "id": "af4f1",
+      "name": "Small Rock 02 Yellow (4)-207.mesh",
+      "userData": {
+        "gltfIndex": 207
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0d500": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@0d500",
+      "displayName": "",
+      "id": "0d500",
+      "name": "Small Rock 02 Yellow (5)-208.mesh",
+      "userData": {
+        "gltfIndex": 208
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0d37e": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@0d37e",
+      "displayName": "",
+      "id": "0d37e",
+      "name": "Small Rock 02 Yellow (6)-209.mesh",
+      "userData": {
+        "gltfIndex": 209
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "66d60": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@66d60",
+      "displayName": "",
+      "id": "66d60",
+      "name": "Small Rock 03 Yellow (8)-210.mesh",
+      "userData": {
+        "gltfIndex": 210
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "110df": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@110df",
+      "displayName": "",
+      "id": "110df",
+      "name": "Path 02 Grass-212.mesh",
+      "userData": {
+        "gltfIndex": 212
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8bfbe": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@8bfbe",
+      "displayName": "",
+      "id": "8bfbe",
+      "name": "Path 01 Grass (1)-213.mesh",
+      "userData": {
+        "gltfIndex": 213
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6b234": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@6b234",
+      "displayName": "",
+      "id": "6b234",
+      "name": "Path 01 Grass (2)-214.mesh",
+      "userData": {
+        "gltfIndex": 214
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2e58f": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@2e58f",
+      "displayName": "",
+      "id": "2e58f",
+      "name": "Path 01 Grass (3)-215.mesh",
+      "userData": {
+        "gltfIndex": 215
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "64a4f": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@64a4f",
+      "displayName": "",
+      "id": "64a4f",
+      "name": "Path 01 Grass (4)-216.mesh",
+      "userData": {
+        "gltfIndex": 216
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7e8e1": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@7e8e1",
+      "displayName": "",
+      "id": "7e8e1",
+      "name": "Path 02 Grass (2)-218.mesh",
+      "userData": {
+        "gltfIndex": 218
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c6552": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@c6552",
+      "displayName": "",
+      "id": "c6552",
+      "name": "Path 01 Grass (5)-219.mesh",
+      "userData": {
+        "gltfIndex": 219
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bf078": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@bf078",
+      "displayName": "",
+      "id": "bf078",
+      "name": "Path 01 Grass (6)-220.mesh",
+      "userData": {
+        "gltfIndex": 220
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f3386": {
+      "importer": "gltf-mesh",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@f3386",
+      "displayName": "",
+      "id": "f3386",
+      "name": "Path 02 Grass (3)-221.mesh",
+      "userData": {
+        "gltfIndex": 221
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3e6fb": {
+      "importer": "gltf-embeded-image",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@3e6fb",
+      "displayName": "",
+      "id": "3e6fb",
+      "name": "Campfire.png.image",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9482a": {
+      "importer": "gltf-embeded-image",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@9482a",
+      "displayName": "",
+      "id": "9482a",
+      "name": "Bone Pillar.png.image",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a38ea": {
+      "importer": "gltf-embeded-image",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@a38ea",
+      "displayName": "",
+      "id": "a38ea",
+      "name": "Campfire Burnt Ground.png.image",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "29b32": {
+      "importer": "gltf-embeded-image",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@29b32",
+      "displayName": "",
+      "id": "29b32",
+      "name": "Wall Rock.png.image",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "224d0": {
+      "importer": "gltf-embeded-image",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@224d0",
+      "displayName": "",
+      "id": "224d0",
+      "name": "Log.png.image",
+      "userData": {
+        "gltfIndex": 5
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9c2fd": {
+      "importer": "gltf-embeded-image",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@9c2fd",
+      "displayName": "",
+      "id": "9c2fd",
+      "name": "Cone Tree - Green.png.image",
+      "userData": {
+        "gltfIndex": 6
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8e5d9": {
+      "importer": "gltf-embeded-image",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@8e5d9",
+      "displayName": "",
+      "id": "8e5d9",
+      "name": "props_mix_a.png.image",
+      "userData": {
+        "gltfIndex": 8
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "db7d6": {
+      "importer": "gltf-embeded-image",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@db7d6",
+      "displayName": "",
+      "id": "db7d6",
+      "name": "Props.png.image",
+      "userData": {
+        "gltfIndex": 9
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "63c1a": {
+      "importer": "gltf-embeded-image",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@63c1a",
+      "displayName": "",
+      "id": "63c1a",
+      "name": "SimpleTown.png.image",
+      "userData": {
+        "gltfIndex": 10
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "cda97": {
+      "importer": "gltf-embeded-image",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@cda97",
+      "displayName": "",
+      "id": "cda97",
+      "name": "Water.png.image",
+      "userData": {
+        "gltfIndex": 11
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fe049": {
+      "importer": "texture",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@fe049",
+      "displayName": "",
+      "id": "fe049",
+      "name": "SimpleItems.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "b41179ab-6b0d-485b-a72f-b4dd144698c7@62710"
+      },
+      "ver": "1.0.20",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "43af3": {
+      "importer": "texture",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@43af3",
+      "displayName": "",
+      "id": "43af3",
+      "name": "Campfire.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "b41179ab-6b0d-485b-a72f-b4dd144698c7@3e6fb"
+      },
+      "ver": "1.0.20",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fed01": {
+      "importer": "texture",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@fed01",
+      "displayName": "",
+      "id": "fed01",
+      "name": "Bone Pillar.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "b41179ab-6b0d-485b-a72f-b4dd144698c7@9482a"
+      },
+      "ver": "1.0.20",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d9eb0": {
+      "importer": "texture",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@d9eb0",
+      "displayName": "",
+      "id": "d9eb0",
+      "name": "Wall Rock.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "b41179ab-6b0d-485b-a72f-b4dd144698c7@29b32"
+      },
+      "ver": "1.0.20",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0d5bd": {
+      "importer": "texture",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@0d5bd",
+      "displayName": "",
+      "id": "0d5bd",
+      "name": "Log.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "b41179ab-6b0d-485b-a72f-b4dd144698c7@224d0"
+      },
+      "ver": "1.0.20",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fd8c1": {
+      "importer": "texture",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@fd8c1",
+      "displayName": "",
+      "id": "fd8c1",
+      "name": "Cone Tree - Green.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "b41179ab-6b0d-485b-a72f-b4dd144698c7@9c2fd"
+      },
+      "ver": "1.0.20",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "16e1e": {
+      "importer": "texture",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@16e1e",
+      "displayName": "",
+      "id": "16e1e",
+      "name": "Grass.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "b41179ab-6b0d-485b-a72f-b4dd144698c7@93345"
+      },
+      "ver": "1.0.20",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b61c7": {
+      "importer": "texture",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@b61c7",
+      "displayName": "",
+      "id": "b61c7",
+      "name": "Props.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "b41179ab-6b0d-485b-a72f-b4dd144698c7@db7d6"
+      },
+      "ver": "1.0.20",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "207a9": {
+      "importer": "texture",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@207a9",
+      "displayName": "",
+      "id": "207a9",
+      "name": "SimpleTown.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "b41179ab-6b0d-485b-a72f-b4dd144698c7@63c1a"
+      },
+      "ver": "1.0.20",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a279f": {
+      "importer": "texture",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@a279f",
+      "displayName": "",
+      "id": "a279f",
+      "name": "Water.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "b41179ab-6b0d-485b-a72f-b4dd144698c7@cda97"
+      },
+      "ver": "1.0.20",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b2ccd": {
+      "importer": "gltf-scene",
+      "uuid": "b41179ab-6b0d-485b-a72f-b4dd144698c7@b2ccd",
+      "displayName": "",
+      "id": "b2ccd",
+      "name": "Environment.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "SimpleItems.png",
+        "uri": "b41179ab-6b0d-485b-a72f-b4dd144698c7@62710"
+      },
+      {
+        "name": "Campfire.png",
+        "uri": "b41179ab-6b0d-485b-a72f-b4dd144698c7@3e6fb"
+      },
+      {
+        "name": "Bone Pillar.png",
+        "uri": "b41179ab-6b0d-485b-a72f-b4dd144698c7@9482a"
+      },
+      {
+        "name": "Campfire Burnt Ground.png",
+        "uri": "b41179ab-6b0d-485b-a72f-b4dd144698c7@a38ea"
+      },
+      {
+        "name": "Wall Rock.png",
+        "uri": "b41179ab-6b0d-485b-a72f-b4dd144698c7@29b32"
+      },
+      {
+        "name": "Log.png",
+        "uri": "b41179ab-6b0d-485b-a72f-b4dd144698c7@224d0"
+      },
+      {
+        "name": "Cone Tree - Green.png",
+        "uri": "b41179ab-6b0d-485b-a72f-b4dd144698c7@9c2fd"
+      },
+      {
+        "name": "Grass.png",
+        "uri": "b41179ab-6b0d-485b-a72f-b4dd144698c7@93345"
+      },
+      {
+        "name": "props_mix_a.png",
+        "uri": "b41179ab-6b0d-485b-a72f-b4dd144698c7@8e5d9"
+      },
+      {
+        "name": "Props.png",
+        "uri": "b41179ab-6b0d-485b-a72f-b4dd144698c7@db7d6"
+      },
+      {
+        "name": "SimpleTown.png",
+        "uri": "b41179ab-6b0d-485b-a72f-b4dd144698c7@63c1a"
+      },
+      {
+        "name": "Water.png",
+        "uri": "b41179ab-6b0d-485b-a72f-b4dd144698c7@cda97"
+      }
+    ],
+    "legacyFbxImporter": true,
+    "redirect": "b41179ab-6b0d-485b-a72f-b4dd144698c7@b2ccd",
+    "assetFinder": {
+      "meshes": [
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@b3f51",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@8d6a1",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@e709f",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@c72e2",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@65856",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@81a54",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@ea5d4",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@cd471",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@1fbad",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@aeac7",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@93825",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@3cab1",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@367d3",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@e3b4b",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@fb792",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@d2a42",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@e7556",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@16596",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@eca3e",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@ca36d",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@94025",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@69d00",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@a33e3",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@5adce",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@2096d",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@570a0",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@b1668",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@fd4df",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@24bea",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@c485d",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@0237e",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@a177e",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@fa6eb",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@710f6",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@673e0",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@c51a2",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@ff5f5",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@998b3",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@6b222",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@50b52",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@04acb",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@86d37",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@84e62",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@435cd",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@f2b18",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@816ec",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@62ce0",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@21223",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@1fc17",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@53d8a",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@669cf",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@55415",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@b3272",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@b1068",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@bf4bc",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@60388",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@1c0bf",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@78dd9",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@d723b",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@a6c57",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@17ffb",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@604d4",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@894b0",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@6761d",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@cd8df",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@335ce",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@11f82",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@3afa8",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@91150",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@3fd16",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@51d81",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@3c5cb",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@de7d5",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@c9872",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@4e919",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@eaa20",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@dac95",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@24cae",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@cdea3",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@3e30d",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@c3404",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@b592a",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@d1663",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@69173",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@512dd",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@92bcf",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@e29da",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@ecee7",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@02519",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@8d657",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@0311f",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@ad8b9",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@b4e72",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@44bfb",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@7e434",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@37916",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@b4fab",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@4db34",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@e1a2c",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@4265a",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@a99a2",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@815fd",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@2b3c5",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@db242",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@dd7aa",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@c797c",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@0af14",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@54f6f",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@f1372",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@4ff24",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@01066",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@a88f9",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@d9005",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@1e8bb",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@a8e45",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@eeb12",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@ab3e1",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@fafc0",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@09c40",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@0cb58",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@e71a6",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@76bc6",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@94485",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@9af42",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@bfb36",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@ac04d",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@e7825",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@a9544",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@96c34",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@25647",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@72fe1",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@ad462",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@11e56",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@29221",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@a75c0",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@f1739",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@9ab42",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@c0b60",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@31453",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@154f6",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@c2ed3",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@3d283",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@4f2f0",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@300bb",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@f8858",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@fc5ab",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@6223c",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@27042",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@13230",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@a056b",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@d0ab8",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@4eb1a",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@fcd10",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@f8614",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@007f6",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@6417e",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@c9131",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@50864",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@c76f3",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@a2c65",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@3b6ab",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@76f91",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@72d3b",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@6e100",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@80d6a",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@0a1ef",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@419b2",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@9ad09",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@a66d7",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@333d6",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@83786",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@d868c",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@a7ea1",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@c5234",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@534a1",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@bf9a6",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@7d045",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@0a8f0",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@658f1",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@870de",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@0afd2",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@25442",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@61176",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@6b831",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@ef4a7",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@a3bc5",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@7800b",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@8e9c2",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@6fec1",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@1551a",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@1d900",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@15e56",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@a82c2",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@3316a",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@2633d",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@3550a",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@7b181",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@12fd5",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@ede2e",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@5638f",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@293bb",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@6af41",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@c4436",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@5088c",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@f2578",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@32c7e",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@45870",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@af4f1",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@0d500",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@0d37e",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@66d60",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@76190",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@110df",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@8bfbe",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@6b234",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@2e58f",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@64a4f",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@89483",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@7e8e1",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@c6552",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@bf078",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@f3386"
+      ],
+      "skeletons": [],
+      "textures": [
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@fe049",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@43af3",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@fed01",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@21055",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@d9eb0",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@0d5bd",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@fd8c1",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@16e1e",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@41717",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@b61c7",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@207a9",
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@a279f"
+      ],
+      "materials": [
+        "332a1bc2-d416-4e9b-9105-ccf282999d6f",
+        "11c80fa4-bdca-4eca-abdf-c058daed71b1",
+        "0f92090b-b9d5-4dcc-a4b6-e3805197f749",
+        "a21fd314-b6bf-49b3-bb08-a286ed25c32b",
+        "e9d064c8-b974-437d-9dba-85b033815a1b",
+        "5e704538-a0ec-40f2-9da7-9394d4574adc",
+        "9bf03931-b00e-4137-97a5-913a37a05810",
+        "f627de8c-0278-43da-9324-6bc0cb0539f5",
+        "85ec129e-8582-45cb-9dbd-80f742ea4ea5",
+        "47ec8ed6-2f60-450f-898f-d4c65c239471",
+        "2725b874-9321-4ee5-b07c-6688d2a8fe3e",
+        "78813cb3-3ebb-4d79-a595-44fa727af55b",
+        "73ac0ff0-1aef-4ea6-80ce-37a5ee356be0",
+        "0fc948d8-eeb1-4f51-a89f-002616eab91e",
+        "d1138b16-91a3-4def-b7be-a44d786eb196",
+        "93ff249b-98f9-47a6-b9b3-c343c75a33d4",
+        "35d3b66a-1c72-449f-8531-f606e5d4ac2a",
+        "33d0b0f6-46f4-41f3-8cc7-30156f58fd76",
+        "3ddc5baa-60b8-421f-a121-900c81fb4fbb",
+        "7a4b71a5-476e-4d03-adb1-0fb0d3989a8c",
+        "945b1cbc-dc76-4be6-8141-60d8932fca1c"
+      ],
+      "scenes": [
+        "b41179ab-6b0d-485b-a72f-b4dd144698c7@b2ccd"
+      ]
+    },
+    "dumpMaterials": true,
+    "materialDumpDir": "db://assets/Animator/Environment/Materials_Environment",
+    "useVertexColors": false
+  }
+}

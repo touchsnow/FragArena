@@ -1,0 +1,195 @@
+CCEffect %{
+  techniques:
+  - name: opaque
+    passes:
+    - switch: USE_OUTLINE_PASS
+      vert: outline-vs:vert
+      frag: outline-fs:frag
+      rasterizerState:
+        cullMode: front
+      properties:
+        lineWidth:     { value: 0.3, target: outlineParams.x }
+        depthBias:     { value: 0,  target: outlineParams.y }
+        baseColor:     { editor: { type: color } }
+        baseColorMap:  { value: grey }
+    - vert: human-vs:vert
+      frag: human-fs:frag
+      properties: &props
+        mainTexture:    { value: grey }
+        tilingOffset:   { value: [1, 1, 0, 0] }
+        mainColor:      { value: [1, 1, 1, 1], editor: { type: color } }
+        colorScale:     { value: [1, 1, 1], target: colorScaleAndCutoff.xyz }
+        alphaThreshold: { value: 0.5, target: colorScaleAndCutoff.w, editor: { parent: USE_ALPHA_TEST } }
+        ambientStrength: { value: 0.1, target: phongParams.x }
+        diffuseStrength: { value: 1.0, target: phongParams.y }
+        specularStrength: { value: 0.5, target: phongParams.z }
+        redBlink: { value: 0.0, target: phongParams.w }
+        color:          { target: mainColor, editor: { visible: false } } # backward compability
+      migrations: &migs
+        properties:
+          mainColor:    { formerlySerializedAs: color }
+  - name: transparent
+    passes:
+    - vert: human-vs:vert
+      frag: human-fs:frag
+      depthStencilState: &d1
+        depthTest: true
+        depthWrite: false
+      blendState:
+        targets:
+        - blend: true
+          blendSrc: src_alpha
+          blendDst: one_minus_src_alpha
+          blendDstAlpha: one_minus_src_alpha
+      properties: *props
+      migrations: *migs
+  - name: add
+    passes:
+    - vert: human-vs:vert
+      frag: human-fs:frag
+      rasterizerState: &r1 { cullMode: none }
+      depthStencilState: *d1
+      blendState:
+        targets:
+        - blend: true
+          blendSrc: src_alpha
+          blendDst: one
+          blendSrcAlpha: src_alpha
+          blendDstAlpha: one
+      properties: *props
+      migrations: *migs
+  - name: alpha-blend
+    passes:
+    - vert: human-vs:vert
+      frag: human-fs:frag
+      rasterizerState: *r1
+      depthStencilState: *d1
+      blendState:
+        targets:
+        - blend: true
+          blendSrc: src_alpha
+          blendDst: one_minus_src_alpha
+          blendSrcAlpha: src_alpha
+          blendDstAlpha: one_minus_src_alpha
+      properties: *props
+      migrations: *migs
+}%
+
+CCProgram human-vs %{
+  precision highp float;
+  //#include <input>
+  #include <input-standard>
+
+  #include <cc-global>
+  #include <cc-local-batch>
+
+  out vec3 v_position;
+  out vec3 v_normal;
+
+  #if USE_VERTEX_COLOR
+    in lowp vec4 a_color;
+    out lowp vec4 v_color;
+  #endif
+
+  #if USE_TEXTURE
+    out vec2 v_uv;
+    uniform TexCoords {
+      vec4 tilingOffset;
+    };
+  #endif
+  vec4 vert () {
+
+    StandardVertInput In;
+    CCVertInput(In);
+
+    mat4 matWorld, matWorldIT;
+    CCGetWorldMatrixFull(matWorld, matWorldIT);
+
+    vec4 pos = matWorld * In.position;
+
+    v_position = pos.xyz;
+    v_normal = normalize((matWorldIT * vec4(In.normal, 0.0)).xyz);
+
+    #if USE_TEXTURE
+      v_uv = a_texCoord * tilingOffset.xy + tilingOffset.zw;
+    #endif
+
+    #if USE_VERTEX_COLOR
+      v_color = a_color;
+    #endif
+    return cc_matProj * (cc_matView * matWorld) * In.position;
+  }
+}%
+
+CCProgram human-fs %{
+  precision highp float;
+  #include <output>
+  #include <cc-fog>
+
+
+
+  #if USE_ALPHA_TEST
+    #pragma define ALPHA_TEST_CHANNEL options([a, r, g, b])
+  #endif
+
+  #if USE_TEXTURE
+    in vec2 v_uv;
+    uniform sampler2D mainTexture;
+  #endif
+
+  in vec3 v_position;
+  in vec3 v_normal;
+
+  uniform Constant {
+    vec4 mainColor;
+    vec4 colorScaleAndCutoff;
+    vec4 phongParams;
+  };
+
+  #if USE_VERTEX_COLOR
+    in lowp vec4 v_color;
+  #endif
+  vec4 frag () {
+    vec4 o = mainColor;
+    o.rgb *= colorScaleAndCutoff.xyz;
+
+    #if USE_VERTEX_COLOR
+      o *= v_color;
+    #endif
+
+    #if USE_TEXTURE
+      o *= texture(mainTexture, v_uv);
+    #endif
+
+    #if USE_ALPHA_TEST
+      if (o.ALPHA_TEST_CHANNEL < colorScaleAndCutoff.w) discard;
+    #endif
+
+    //环境光
+    float ambientStrength = phongParams.x;
+    vec3 ambient = ambientStrength * cc_mainLitColor.xyz * cc_mainLitColor.w;
+
+    //漫反射
+    vec3 lightDir = -cc_mainLitDir.xyz;
+    float diff = max(dot(v_normal, lightDir), 0.0);
+    vec3 diffuse = diff * cc_mainLitColor.xyz * phongParams.y;
+
+    //反射
+    // float specularStrength = phongParams.z;
+    // vec3 viewDir = normalize(cc_cameraPos.xyz - v_position);
+    // vec3 reflectDir = reflect(-lightDir, v_normal);
+    // float spec = pow(max(dot(viewDir, reflectDir), 0.0), 32.0);
+    // vec3 specular = specularStrength * spec * cc_mainLitColor.xyz;
+
+    o.xyz *= (ambient + diffuse);//+ specular);
+
+    if(phongParams.w > 0.5){
+      float red = (sin(cc_time.x*10.0)+1.0)/2.0;
+      red = min(red,0.6);
+      vec3 redColor = vec3(red,0.0,0.0);
+      o = vec4((redColor + (1.0-red)*o.xyz),o.a);
+    }
+    
+    return CCFragOutput(o);
+  }
+}%

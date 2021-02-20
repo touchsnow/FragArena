@@ -1,0 +1,123 @@
+{
+  "ver": "2.0.2",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "229530d3-489f-44c5-97b6-1380010988a2",
+  "files": [],
+  "subMetas": {
+    "411f4": {
+      "importer": "gltf-mesh",
+      "uuid": "229530d3-489f-44c5-97b6-1380010988a2@411f4",
+      "displayName": "",
+      "id": "411f4",
+      "name": "MissleGraphics001.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d7d05": {
+      "importer": "gltf-embeded-image",
+      "uuid": "229530d3-489f-44c5-97b6-1380010988a2@d7d05",
+      "displayName": "",
+      "id": "d7d05",
+      "name": "NewWeaponColor.png7.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "980d7": {
+      "importer": "texture",
+      "uuid": "229530d3-489f-44c5-97b6-1380010988a2@980d7",
+      "displayName": "",
+      "id": "980d7",
+      "name": "NewWeaponColor.png7.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "229530d3-489f-44c5-97b6-1380010988a2@d7d05"
+      },
+      "ver": "1.0.20",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c6408": {
+      "importer": "gltf-material",
+      "uuid": "229530d3-489f-44c5-97b6-1380010988a2@c6408",
+      "displayName": "",
+      "id": "c6408",
+      "name": "NewWeaponTexture7.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b9a49": {
+      "importer": "gltf-scene",
+      "uuid": "229530d3-489f-44c5-97b6-1380010988a2@b9a49",
+      "displayName": "",
+      "id": "b9a49",
+      "name": "rock.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "NewWeaponColor.png7",
+        "uri": "229530d3-489f-44c5-97b6-1380010988a2@d7d05"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "229530d3-489f-44c5-97b6-1380010988a2@b9a49",
+    "assetFinder": {
+      "meshes": [
+        "229530d3-489f-44c5-97b6-1380010988a2@411f4"
+      ],
+      "skeletons": [],
+      "textures": [
+        "229530d3-489f-44c5-97b6-1380010988a2@980d7"
+      ],
+      "materials": [
+        "229530d3-489f-44c5-97b6-1380010988a2@c6408"
+      ],
+      "scenes": [
+        "229530d3-489f-44c5-97b6-1380010988a2@b9a49"
+      ]
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "ver": "1.1.0",
+  "importer": "directory",
+  "imported": true,
+  "uuid": "06e6cca8-ba21-4ef6-9ec1-f82322b120ac",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "compressionType": {},
+    "isRemoteBundle": {
+      "vivo-mini-game": true
+    },
+    "isBundle": false
+  }
+}
